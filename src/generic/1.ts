@@ -14,3 +14,4 @@ getPromise().then((data: Array<string | number>) => {
 });
 
 export {};
+ 
